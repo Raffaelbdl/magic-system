@@ -126,8 +126,8 @@ namespace MagicSystem
         private void Start()
         {
             magicController = FindObjectOfType<MagicController>();
-
             SkillsInterface = FindFirstObjectByType<MagicSkillsInterface>();
+
             if (SkillsInterface != null)
                 SkillsInterface.onMagicSkillsChange += UpdateMagicStats;
             EquipSkill();
