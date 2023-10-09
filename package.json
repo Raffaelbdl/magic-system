@@ -3,5 +3,19 @@
   "version": "0.0.1",
   "description": "Simple Custom Magic System",
   "displayName": "Magic System",
-  "unity": "2022.3"
+  "unity": "2022.3",
+  "author": {
+    "name": "Raffael Bolla Di Lorenzo",
+    "url": "https://github.com/raffaelbdl"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.5.1"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "An example of magic system",
+      "path": "Samples~/"
+    }
+  ]
 }
