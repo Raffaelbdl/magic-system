@@ -1,16 +1,7 @@
- {
- 	"name": "com.Raffaelbdl.magic-system",
- 	"version": "0.0.1",
- 	
- 	"description": "Simple Custom Magic System",
- 	"displayName": "Magic System",
- 	"unity": "2022.3",
- 	
- 	"samples": [
-  	      {
-  	          "displayName": "Demo",
-  	          "description": "Simple Demo",
-  	          "path": "Samples~/"
-  	      }
-	]
+{
+  "name": "com.raffaelbdl.magic-system",
+  "version": "0.0.1",
+  "description": "Simple Custom Magic System",
+  "displayName": "Magic System",
+  "unity": "2022.3"
 }
